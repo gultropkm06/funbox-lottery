@@ -1,0 +1,5 @@
+# 只把 docs/（GitHub Pages 用的頁面）放進 repo；腳本、Excel、抓取原文、快取都不上傳
+*
+!.gitignore
+!docs/
+!docs/**
